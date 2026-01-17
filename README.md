@@ -1,11 +1,36 @@
-Technology and Information System subject has taugh me a lot . Through some assignment it has change my perspective towards technology .
+# 📘 Reflections on Technology and Information Systems
 
-The first assignment was about my industry talk in UTM Digital . We need to gather informaton as much as impossible about technology and work scope for computer science student . This assignment gave me a lot of information, like what branch I can work in after graduation, what kind of career would be best for me, and what I will do once I start working. All of it has been really helpful to me during my time at UTM. I'm hoping for additional opportunities to take on challenges at UTM.
+Technology and Information System subject has taught me a lot. Through some assignments it has changed my perspective towards technology.
 
-The second assignment is about PPG's industry talk . From the talk , pay close attention to every detail of the conference because PPG is a globally influential industry. The topic of discussion is technology. The need of applying theoretical knowledge in our careers was also emphasized by the speaker. My understanding that efficient communication and methodical preparation are just as crucial as my coding abilities was strengthened by this task. In order to be prepared for the future, I must therefore work hard in my academics and focus on acquiring other complimentary talents.
+---
 
-The third assignment is also about industry talk, specifically project management and system development. I need to strengthen my project management and methodical planning skills. It is an essential talent that I must acquire for the future. in order for me to successfully complete a software project once I graduate. The speaker's experience made me realize that in order to be well-prepared for the future, I should concentrate more on honing and managing my skills.
+## **Assignment 1: UTM Digital Industry Talk**
 
-The last assignment was about our visit to Biocon .  I discovered during the visit that computer science students are also needed in the pharmaceutical industry. They have numerous buildings, each of which serves a distinct purpose. I discovered that there are now many uses for computer abilities outside of traditional software development. It made me realize that, from a professional standpoint, we must compete with one another to enter the field. I became more appreciative of how technology helps vital sectors like healthcare as a result of our experience. I'm hoping to learn more in my upcoming coursework.
+The first assignment was about my industry talk in UTM Digital. We need to gather information as much as possible about technology and work scope for computer science student. This assignment gave me a lot of information, like what branch I can work in after graduation, what kind of career would be best for me, and what I will do once I start working. All of it has been really helpful to me during my time at UTM. I'm hoping for additional opportunities to take on challenges at UTM.
 
-Lastly , I was also involved in a project using design thinking . It taught me a lot because we had to come up with ideas and then have in-depth discussions until we had completed all of the design thinking. My team proposed a smart watch that would connect to an application to assist autistic communities in identifying certain sensory concerns so that their problems could be identified at an early stage. I understand that a workable answer won't appear right away; rather, it will develop over time. I also learned how to use the five phases of thought to address problems methodically through this procedure. I hope others will adopt our suggestion to meet the needs of the autism community.
+---
+
+## **Assignment 2: PPG Industry Talk**
+
+The second assignment is about PPG's industry talk. From the talk, pay close attention to every detail of the conference because PPG is a globally influential industry. The topic of discussion is technology. The need of applying theoretical knowledge in our careers was also emphasized by the speaker. My understanding that efficient communication and methodical preparation are just as crucial as my coding abilities was strengthened by this task. In order to be prepared for the future, I must therefore work hard in my academics and focus on acquiring other complementary talents.
+
+---
+
+## **Assignment 3: Project Management & System Development Talk**
+
+The third assignment is also about industry talk, specifically project management and system development. I need to strengthen my project management and methodical planning skills. It is an essential talent that I must acquire for the future, in order for me to successfully complete a software project once I graduate. The speaker's experience made me realize that in order to be well-prepared for the future, I should concentrate more on honing and managing my skills.
+
+---
+
+## **Assignment 4: Biocon Visit**
+
+The last assignment was about our visit to Biocon. I discovered during the visit that computer science students are also needed in the pharmaceutical industry. They have numerous buildings, each of which serves a distinct purpose. I discovered that there are now many uses for computer abilities outside of traditional software development. It made me realize that, from a professional standpoint, we must compete with one another to enter the field. I became more appreciative of how technology helps vital sectors like healthcare as a result of our experience. I'm hoping to learn more in my upcoming coursework.
+
+---
+
+## **Design Thinking Project**
+
+Lastly, I was also involved in a project using design thinking. It taught me a lot because we had to come up with ideas and then have in-depth discussions until we had completed all of the design thinking. My team proposed a smart watch that would connect to an application to assist autistic communities in identifying certain sensory concerns so that their problems could be identified at an early stage. I understand that a workable answer won't appear right away; rather, it will develop over time. I also learned how to use the five phases of thought to address problems methodically through this procedure. I hope others will adopt our suggestion to meet the needs of the autism community.
+
+---
+
